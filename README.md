@@ -1,4 +1,5 @@
-Juego de Trivia Literaria
+#Juego de Trivia Literaria
+
 Descripción
 Un juego de preguntas y respuestas sobre literatura, con diferentes categorías y niveles de dificultad.
 
