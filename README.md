@@ -13,18 +13,31 @@ Estructura del Proyecto
 Backend: Gestiona la lógica del juego y almacena las preguntas y respuestas.
 
 main.mo
+
 questions.mo
+
 users.mo
+
 game_logic.mo
+
 data/
+
 questions_data.mo
+
 categories.mo
+
 Frontend: Interfaz del usuario.
 
+
+
 index.html
+
 styles.css
+
 script.js
+
 assets/
+
 
 Uso
 Responde preguntas sobre literatura y acumular puntos.
